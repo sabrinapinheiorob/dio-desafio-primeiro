@@ -1,0 +1,3 @@
+O Git Bash é um terminal estendido
+Dir abre a lista de pastas do computador
+CD faz com que eu navegue dentro dessas pastas
